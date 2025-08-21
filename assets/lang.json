@@ -5,9 +5,9 @@
     "nav_publications": "Publications",
     "nav_cv": "CV",
     "nav_contact": "Contact",
-    "hero_kicker": "Microbiome · Metagenomics · MGEs",
+    "hero_kicker": "Microbiome · Metagenomics · Mobile genetic elements",
     "hero_intro": "Hi, I’m Yuya Kiguchi.",
-    "hero_desc": "I’m a postdoctoral scholar studying the human microbiome, mobile genetic elements, and host–microbe interactions using computational metagenomics and long-read sequencing.",
+    "hero_desc": "I’m a postdoctoral scholar at Stanford University (Ami Bhatt lab) studying the human microbiome, especially focusing on the genetic elements that boost the adaptive capacity of the human commensal microbes.",
     "research_title": "Projects",
     "pubs_title": "Selected publications"
   },
@@ -18,8 +18,8 @@
     "nav_cv": "履歴書",
     "nav_contact": "連絡先",
     "hero_kicker": "マイクロバイオーム · メタゲノミクス · 可動遺伝因子",
-    "hero_intro": "こんにちは、木口 悠也です。",
-    "hero_desc": "私はポスドク研究員として、ヒト腸内マイクロバイオーム、可動遺伝因子、宿主−微生物相互作用を、計算メタゲノミクスとロングリードシーケンシングを用いて研究しています。",
+    "hero_intro": "木口　悠也のホームページへようこそ",
+    "hero_desc": "私はスタンフォード大学（アミ・バット研究室）の博士研究員として、ヒトのマイクロバイオーム、特にヒトの常在微生物の適応能力を高める遺伝的要素について研究しています。",
     "research_title": "研究プロジェクト",
     "pubs_title": "主要な論文"
   }
