@@ -1,0 +1,21 @@
+# 1. ZIP を解凍（例: ダウンロードフォルダにある場合）
+unzip ~/Downloads/yuya-kiguchi-site-bilingual.zip -d ~/Homepage
+
+# 2. 作業ディレクトリに移動
+cd ~/Homepage
+
+# 3. Git を初期化（まだ git 管理されていない場合のみ）
+git init
+
+# 4. GitHub のリポジトリを origin に設定
+git remote add origin https://github.com/yuyanoah/Homepage.git
+
+# 5. すべてのファイルを追加
+git add .
+
+# 6. コミット
+git commit -m "Initial commit of bilingual homepage"
+
+# 7. main ブランチに push
+git branch -M main
+git push -u origin main
