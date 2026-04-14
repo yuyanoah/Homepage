@@ -37,7 +37,8 @@
     "cv_download": "Download CV (PDF)",
     "res_paper_1": "Kiguchi et al. 2025, Nature Commun. →",
     "res_paper_2": "Kiguchi et al. 2021, DNA Research →",
-    "res_paper_3": "Takewaki & Kiguchi et al. 2024, Cell Rep. →"
+    "res_paper_3": "Takewaki & Kiguchi et al. 2024, Cell Rep. →",
+    "res_paper_2b": "Maghini & Kiguchi et al. 2025, mSystems →"
   },
   "jp": {
     "nav_home": "ホーム",
@@ -77,6 +78,7 @@
     "cv_download": "CVをダウンロード（PDF）",
     "res_paper_1": "木口ら 2025, Nature Commun. →",
     "res_paper_2": "木口ら 2021, DNA Research →",
-    "res_paper_3": "竹脇・木口ら 2024, Cell Rep. →"
+    "res_paper_3": "竹脇・木口ら 2024, Cell Rep. →",
+    "res_paper_2b": "Maghini・木口ら 2025, mSystems →"
   }
 }
