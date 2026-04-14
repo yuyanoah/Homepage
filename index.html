@@ -14,6 +14,8 @@
       <a href="index.html" data-i18n="nav_home" class="active"></a>
       <a href="research.html" data-i18n="nav_research"></a>
       <a href="publications.html" data-i18n="nav_publications"></a>
+      <a href="conferences.html" data-i18n="nav_conferences"></a>
+      <a href="teaching.html" data-i18n="nav_teaching"></a>
       <a href="cv/Yuya_Kiguchi_CV.pdf" target="_blank" data-i18n="nav_cv"></a>
       <a href="mailto:ykiguchi@stanford.edu" data-i18n="nav_contact"></a>
       <span>
@@ -23,7 +25,6 @@
     </div>
   </div>
 </nav>
-
 <main class="container">
 
   <!-- Hero -->
@@ -83,6 +84,41 @@
     <div class="pub-list" id="home-pub-list"></div>
   </section>
 
+  <!-- Conferences -->
+  <section class="home-section">
+    <div class="section-label">
+      <div>
+        <div class="kicker" data-i18n="nav_conferences"></div>
+        <h2 class="section-title" data-i18n="conf_title"></h2>
+      </div>
+      <a href="conferences.html" class="see-all" data-i18n="see_all"></a>
+    </div>
+    <div class="pub-list" id="home-conf-list"></div>
+  </section>
+
+  <!-- Teaching -->
+  <section class="home-section">
+    <div class="section-label">
+      <div>
+        <div class="kicker" data-i18n="nav_teaching"></div>
+        <h2 class="section-title" data-i18n="teach_title"></h2>
+      </div>
+      <a href="teaching.html" class="see-all" data-i18n="see_all"></a>
+    </div>
+    <div class="card-grid">
+      <div class="card research-card">
+        <div class="card-tag" data-i18n="teach_tag_1"></div>
+        <h3 data-i18n="teach_h_1"></h3>
+        <p data-i18n="teach_p_1"></p>
+      </div>
+      <div class="card research-card">
+        <div class="card-tag" data-i18n="teach_tag_2"></div>
+        <h3 data-i18n="teach_h_2"></h3>
+        <p data-i18n="teach_p_2"></p>
+      </div>
+    </div>
+  </section>
+
   <!-- CV -->
   <section class="home-section">
     <div class="section-label">
@@ -98,12 +134,12 @@
   </section>
 
 </main>
-
 <footer class="container">
   <div>© <span id="year"></span> Yuya Kiguchi — Built with GitHub Pages.</div>
 </footer>
 <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
 <script src="assets/lang.js"></script>
 <script src="assets/pubs.js"></script>
+<script src="assets/conferences.js"></script>
 </body>
 </html>
