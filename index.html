@@ -23,7 +23,10 @@
     </div>
   </div>
 </nav>
+
 <main class="container">
+
+  <!-- Hero -->
   <section class="hero">
     <div class="hero-text">
       <div class="kicker" data-i18n="hero_kicker"></div>
@@ -31,7 +34,7 @@
       <p class="hero-desc" data-i18n="hero_desc"></p>
       <div class="hero-links">
         <a class="btn btn-primary" href="https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en" target="_blank" data-i18n="btn_scholar"></a>
-        <a class="btn btn-ghost" href="publications.html" data-i18n="nav_publications"></a>
+        <a class="btn btn-ghost" href="cv/Yuya_Kiguchi_CV.pdf" target="_blank" data-i18n="nav_cv"></a>
         <a class="btn btn-ghost" href="mailto:ykiguchi@stanford.edu" data-i18n="nav_contact"></a>
       </div>
     </div>
@@ -39,11 +42,68 @@
       <img src="assets/profile.jpg" alt="Yuya Kiguchi" />
     </div>
   </section>
+
+  <!-- Research -->
+  <section class="home-section">
+    <div class="section-label">
+      <div>
+        <div class="kicker" data-i18n="nav_research"></div>
+        <h2 class="section-title" data-i18n="research_title"></h2>
+      </div>
+      <a href="research.html" class="see-all" data-i18n="see_all"></a>
+    </div>
+    <div class="card-grid">
+      <div class="card research-card">
+        <div class="card-tag" data-i18n="res_tag_1"></div>
+        <h3 data-i18n="res_h_1"></h3>
+        <p data-i18n="res_p_1"></p>
+      </div>
+      <div class="card research-card">
+        <div class="card-tag" data-i18n="res_tag_2"></div>
+        <h3 data-i18n="res_h_2"></h3>
+        <p data-i18n="res_p_2"></p>
+      </div>
+      <div class="card research-card">
+        <div class="card-tag" data-i18n="res_tag_3"></div>
+        <h3 data-i18n="res_h_3"></h3>
+        <p data-i18n="res_p_3"></p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Publications -->
+  <section class="home-section">
+    <div class="section-label">
+      <div>
+        <div class="kicker" data-i18n="nav_publications"></div>
+        <h2 class="section-title" data-i18n="pubs_title"></h2>
+      </div>
+      <a href="publications.html" class="see-all" data-i18n="see_all"></a>
+    </div>
+    <div class="pub-list" id="home-pub-list"></div>
+  </section>
+
+  <!-- CV -->
+  <section class="home-section">
+    <div class="section-label">
+      <div>
+        <div class="kicker" data-i18n="nav_cv"></div>
+        <h2 class="section-title" data-i18n="cv_title"></h2>
+      </div>
+    </div>
+    <div class="card cv-card">
+      <p class="cv-desc" data-i18n="cv_desc"></p>
+      <a class="btn btn-primary" href="cv/Yuya_Kiguchi_CV.pdf" target="_blank" data-i18n="cv_download"></a>
+    </div>
+  </section>
+
 </main>
+
 <footer class="container">
   <div>© <span id="year"></span> Yuya Kiguchi — Built with GitHub Pages.</div>
 </footer>
 <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
 <script src="assets/lang.js"></script>
+<script src="assets/pubs.js"></script>
 </body>
 </html>
