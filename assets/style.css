@@ -103,6 +103,24 @@ nav {
 }
 .hero-photo img:hover { box-shadow: var(--shadow-hover); }
 
+/* Home sections */
+.home-section { padding: 56px 0 0; }
+.section-label {
+  display: flex; align-items: flex-end; justify-content: space-between;
+  margin-bottom: 24px; gap: 16px;
+}
+.section-title {
+  font-size: clamp(20px, 3vw, 26px); font-weight: 800;
+  letter-spacing: -.8px; margin: 4px 0 0;
+}
+.see-all {
+  font-size: 14px; font-weight: 600; color: var(--brand);
+  text-decoration: none; white-space: nowrap; padding-bottom: 2px;
+  border-bottom: 1.5px solid transparent;
+  transition: border-color .15s;
+}
+.see-all:hover { border-bottom-color: var(--brand); }
+
 /* Cards */
 .card {
   background: var(--card); border: 1px solid var(--border);
@@ -113,7 +131,7 @@ nav {
 .card:hover { box-shadow: var(--shadow-hover); transform: translateY(-2px); }
 .card-grid {
   display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-  gap: 20px; margin-top: 32px;
+  gap: 20px;
 }
 .research-card .card-tag {
   font-size: 11px; font-weight: 700; letter-spacing: .5px;
@@ -124,8 +142,13 @@ nav {
 }
 .research-card p { color: var(--muted); font-size: 14px; margin: 0; line-height: 1.7; }
 
+/* CV card */
+.cv-card { display: flex; align-items: center; justify-content: space-between; gap: 24px; }
+.cv-desc { color: var(--muted); font-size: 15px; margin: 0; line-height: 1.7; }
+.cv-card:hover { transform: none; }
+
 /* Publications */
-.pub-list { display: flex; flex-direction: column; gap: 14px; margin-top: 32px; }
+.pub-list { display: flex; flex-direction: column; gap: 14px; }
 .pub-card {
   background: var(--card); border: 1px solid var(--border);
   border-radius: var(--radius); padding: 20px 24px;
@@ -158,7 +181,7 @@ nav {
   .badge-cite { color: #fbbf24; }
 }
 
-/* Page headers */
+/* Page headers (research.html, publications.html) */
 .section-header { padding: 56px 0 0; }
 .kicker {
   font-size: 12px; letter-spacing: .7px; text-transform: uppercase;
@@ -182,4 +205,5 @@ footer {
   .hero-photo { order: -1; }
   .hero-photo img { width: 110px; height: 110px; }
   .card-grid { grid-template-columns: 1fr; }
+  .cv-card { flex-direction: column; align-items: flex-start; }
 }
