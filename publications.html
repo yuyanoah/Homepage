@@ -7,13 +7,12 @@
 <link rel="stylesheet" href="assets/style.css" />
 </head>
 <body>
-
 <nav>
   <div class="nav-inner">
     <div class="brand"><a href="index.html">Yuya Kiguchi</a></div>
     <div class="nav-links">
-      <a href="index.html" data-i18n="nav_home" class=""></a>
-      <a href="research.html" data-i18n="nav_research" class=""></a>
+      <a href="index.html" data-i18n="nav_home"></a>
+      <a href="research.html" data-i18n="nav_research"></a>
       <a href="publications.html" data-i18n="nav_publications" class="active"></a>
       <a href="cv/Yuya_Kiguchi_CV.pdf" target="_blank" data-i18n="nav_cv"></a>
       <a href="mailto:ykiguchi@stanford.edu" data-i18n="nav_contact"></a>
@@ -24,20 +23,19 @@
     </div>
   </div>
 </nav>
-
 <main class="container">
-  <div class="kicker" data-i18n="nav_publications"></div>
-  <h1 data-i18n="pubs_title"></h1>
-  <p>List of publications.</p>
+  <div class="section-header">
+    <div class="kicker" data-i18n="nav_publications"></div>
+    <h1 class="page-title" data-i18n="pubs_title"></h1>
+    <p class="section-desc" data-i18n="pubs_desc"></p>
+  </div>
+  <div class="pub-list" id="pub-list"></div>
 </main>
-
 <footer class="container">
   <div>© <span id="year"></span> Yuya Kiguchi — Built with GitHub Pages.</div>
 </footer>
-<script>
-document.getElementById('year').textContent = new Date().getFullYear();
-</script>
+<script>document.getElementById('year').textContent = new Date().getFullYear();</script>
 <script src="assets/lang.js"></script>
-
+<script src="assets/pubs.js"></script>
 </body>
 </html>
