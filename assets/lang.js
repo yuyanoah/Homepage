@@ -8,6 +8,10 @@ async function setLang(lang) {
     const key = el.getAttribute("data-i18n");
     if (trans[key]) el.textContent = trans[key];
   });
+  document.querySelectorAll("[data-i18n-html]").forEach(el => {
+    const key = el.getAttribute("data-i18n-html");
+    if (trans[key]) el.innerHTML = trans[key];
+  });
 }
 (async () => {
   const lang = localStorage.getItem("lang") || "en";
