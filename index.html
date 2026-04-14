@@ -33,7 +33,8 @@
       <h1 data-i18n="hero_intro"></h1>
       <p class="hero-desc" data-i18n="hero_desc"></p>
       <div class="hero-links">
-        <a class="btn btn-primary" href="https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en" target="_blank" data-i18n="btn_scholar"></a>
+        <a class="btn btn-primary" href="https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en" target="_blank" rel="noopener" data-i18n="btn_scholar"></a>
+        <a class="btn btn-ghost" href="https://x.com/YuyaKiguchi" target="_blank" rel="noopener">X (Twitter)</a>
         <a class="btn btn-ghost" href="cv/Yuya_Kiguchi_CV.pdf" target="_blank" data-i18n="nav_cv"></a>
         <a class="btn btn-ghost" href="mailto:ykiguchi@stanford.edu" data-i18n="nav_contact"></a>
       </div>
@@ -49,18 +50,31 @@
       <a href="research.html" class="see-all" data-i18n="see_all"></a>
     </div>
     <div class="card-grid">
-      <div class="card research-card"><div class="card-tag" data-i18n="res_tag_1"></div><h3 data-i18n="res_h_1"></h3><p data-i18n="res_p_1"></p></div>
-      <div class="card research-card"><div class="card-tag" data-i18n="res_tag_2"></div><h3 data-i18n="res_h_2"></h3><p data-i18n="res_p_2"></p></div>
-      <div class="card research-card"><div class="card-tag" data-i18n="res_tag_3"></div><h3 data-i18n="res_h_3"></h3><p data-i18n="res_p_3"></p></div>
+      <div class="card research-card">
+        <div class="card-tag" data-i18n="res_tag_1"></div>
+        <h3 data-i18n="res_h_1"></h3>
+        <p data-i18n="res_p_1"></p>
+        <a class="res-paper-link" data-i18n="res_paper_1"
+           href="https://scholar.google.com/scholar?q=Inocle+extrachromosomal+oral+microbiome+Kiguchi+2025"
+           target="_blank" rel="noopener"></a>
+      </div>
+      <div class="card research-card">
+        <div class="card-tag" data-i18n="res_tag_2"></div>
+        <h3 data-i18n="res_h_2"></h3>
+        <p data-i18n="res_p_2"></p>
+        <a class="res-paper-link" data-i18n="res_paper_2"
+           href="https://scholar.google.com/scholar?q=SACRA+phageome+long+read+metagenomics+Kiguchi+2021"
+           target="_blank" rel="noopener"></a>
+      </div>
+      <div class="card research-card">
+        <div class="card-tag" data-i18n="res_tag_3"></div>
+        <h3 data-i18n="res_h_3"></h3>
+        <p data-i18n="res_p_3"></p>
+        <a class="res-paper-link" data-i18n="res_paper_3"
+           href="https://scholar.google.com/scholar?q=Tyzzerella+nexilis+multiple+sclerosis+Kiguchi+2024"
+           target="_blank" rel="noopener"></a>
+      </div>
     </div>
-  </section>
-
-  <section class="home-section">
-    <div class="section-label">
-      <div><div class="kicker" data-i18n="nav_publications"></div><h2 class="section-title" data-i18n="pubs_title"></h2></div>
-      <a href="publications.html" class="see-all" data-i18n="see_all"></a>
-    </div>
-    <div class="pub-list" id="home-pub-list"></div>
   </section>
 
   <section class="home-section">
@@ -69,17 +83,6 @@
       <a href="conferences.html" class="see-all" data-i18n="see_all"></a>
     </div>
     <div class="pub-list" id="home-conf-list"></div>
-  </section>
-
-  <section class="home-section">
-    <div class="section-label">
-      <div><div class="kicker" data-i18n="nav_teaching"></div><h2 class="section-title" data-i18n="teach_title"></h2></div>
-      <a href="teaching.html" class="see-all" data-i18n="see_all"></a>
-    </div>
-    <div class="card cv-card">
-      <p class="cv-desc" data-i18n="teach_course_summary_p"></p>
-      <a class="btn btn-ghost" href="teaching.html" data-i18n="see_all"></a>
-    </div>
   </section>
 
   <section class="home-section">
@@ -97,8 +100,8 @@
   <div>© <span id="year"></span> Yuya Kiguchi — Built with GitHub Pages.</div>
 </footer>
 <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
-<script src="assets/lang.js"></script>
-<script src="assets/pubs.js"></script>
-<script src="assets/conferences.js"></script>
+<script src="assets/lang.js?v=4"></script>
+<script src="assets/pubs.js?v=4"></script>
+<script src="assets/conferences.js?v=4"></script>
 </body>
 </html>
