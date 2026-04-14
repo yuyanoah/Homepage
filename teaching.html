@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Teaching — Yuya Kiguchi</title>
+<link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+<nav>
+  <div class="nav-inner">
+    <div class="brand"><a href="index.html">Yuya Kiguchi</a></div>
+    <div class="nav-links">
+      <a href="index.html" data-i18n="nav_home"></a>
+      <a href="research.html" data-i18n="nav_research"></a>
+      <a href="publications.html" data-i18n="nav_publications"></a>
+      <a href="conferences.html" data-i18n="nav_conferences"></a>
+      <a href="teaching.html" data-i18n="nav_teaching" class="active"></a>
+      <a href="cv/Yuya_Kiguchi_CV.pdf" target="_blank" data-i18n="nav_cv"></a>
+      <a href="mailto:ykiguchi@stanford.edu" data-i18n="nav_contact"></a>
+      <span>
+        <button class="lang-switch" data-lang="en">EN</button>|
+        <button class="lang-switch" data-lang="jp">JP</button>
+      </span>
+    </div>
+  </div>
+</nav>
+<main class="container">
+  <div class="section-header">
+    <div class="kicker" data-i18n="nav_teaching"></div>
+    <h1 class="page-title" data-i18n="teach_title"></h1>
+    <p class="section-desc" data-i18n="teach_desc"></p>
+  </div>
+  <div class="card-grid">
+    <div class="card research-card">
+      <div class="card-tag" data-i18n="teach_tag_1"></div>
+      <h3 data-i18n="teach_h_1"></h3>
+      <p data-i18n="teach_p_1"></p>
+    </div>
+    <div class="card research-card">
+      <div class="card-tag" data-i18n="teach_tag_2"></div>
+      <h3 data-i18n="teach_h_2"></h3>
+      <p data-i18n="teach_p_2"></p>
+    </div>
+  </div>
+</main>
+<footer class="container">
+  <div>© <span id="year"></span> Yuya Kiguchi — Built with GitHub Pages.</div>
+</footer>
+<script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+<script src="assets/lang.js"></script>
+</body>
+</html>
