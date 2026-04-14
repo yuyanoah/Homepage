@@ -1,5 +1,5 @@
 (async () => {
-  const res = await fetch('assets/conferences.json');
+  const res = await fetch('assets/conferences.json?v=2');
   const data = await res.json();
   const fullList = document.getElementById('conf-list');
   const homeList = document.getElementById('home-conf-list');
