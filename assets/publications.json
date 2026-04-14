@@ -9,7 +9,11 @@
       "co_first": true,
       "corresponding": true,
       "selected": true,
-      "url": "https://doi.org/10.1038/s41467-025-62406-5"
+      "url": "https://doi.org/10.1038/s41467-025-62406-5",
+      "co_first_authors": [
+        "Y Kiguchi",
+        "N Hamamoto"
+      ]
     },
     {
       "title": "Illumina complete long read assay yields contiguous bacterial genomes from human gut metagenomes",
@@ -18,7 +22,11 @@
       "year": 2025,
       "citations": 5,
       "co_first": true,
-      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en"
+      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en",
+      "co_first_authors": [
+        "DG Maghini",
+        "Y Kiguchi"
+      ]
     },
     {
       "title": "Gut microbiota associated with equol production in school-age children",
@@ -36,7 +44,11 @@
       "citations": 11,
       "co_first": true,
       "selected": true,
-      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en"
+      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en",
+      "co_first_authors": [
+        "D Takewaki",
+        "Y Kiguchi"
+      ]
     },
     {
       "title": "Uncovering microbiomes of the rice phyllosphere using long-read metagenomic sequencing",
