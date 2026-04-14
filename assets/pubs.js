@@ -9,7 +9,11 @@
 
   function renderPubs(items) {
     return items.map(p => {
-      const authorsHl = p.authors.replace(/Y(uya)? Kiguchi/g, '<strong>Y Kiguchi</strong>');
+      const suffix = (p.co_first ? '\u2020' : '') + (p.corresponding ? '*' : '');
+      const authorsHl = p.authors.replace(
+        /Y(uya)? Kiguchi/g,
+        `<strong>Y Kiguchi${suffix}</strong>`
+      );
       const citeBadge = p.citations > 0
         ? `<span class="badge badge-cite">Cited by ${p.citations}</span>` : '';
       return `<div class="pub-card">
