@@ -6,6 +6,8 @@
       "venue": "Nature Communications",
       "year": 2025,
       "citations": 1,
+      "co_first": true,
+      "corresponding": true,
       "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en"
     },
     {
@@ -14,6 +16,7 @@
       "venue": "mSystems",
       "year": 2025,
       "citations": 5,
+      "co_first": true,
       "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en"
     },
     {
@@ -30,6 +33,7 @@
       "venue": "Cell Reports",
       "year": 2024,
       "citations": 11,
+      "co_first": true,
       "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en"
     },
     {
@@ -62,6 +66,7 @@
       "venue": "DNA Research",
       "year": 2021,
       "citations": 27,
+      "co_first": true,
       "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en"
     },
     {
