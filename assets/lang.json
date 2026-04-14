@@ -34,7 +34,10 @@
     "teach_course_summary_p": "Molecular Biology II (Hosei Univ.), Data Science & Omics (UTokyo), Global Week (Junten High School) — 2018 to present.",
     "cv_title": "Curriculum Vitae",
     "cv_desc": "Download my full CV for a complete list of publications, awards, and academic activities.",
-    "cv_download": "Download CV (PDF)"
+    "cv_download": "Download CV (PDF)",
+    "res_paper_1": "Kiguchi et al. 2025, Nature Commun. →",
+    "res_paper_2": "Kiguchi et al. 2021, DNA Research →",
+    "res_paper_3": "Takewaki & Kiguchi et al. 2024, Cell Rep. →"
   },
   "jp": {
     "nav_home": "ホーム",
@@ -71,6 +74,9 @@
     "teach_course_summary_p": "分子生物学II（法政大）、データサイエンス・オミクス（東大）、グローバルウィーク（順天高校）— 2018年〜現在。",
     "cv_title": "履歴書",
     "cv_desc": "完全な論文リスト、賞分、学術活動については履歴書をご覧ください。",
-    "cv_download": "CVをダウンロード（PDF）"
+    "cv_download": "CVをダウンロード（PDF）",
+    "res_paper_1": "木口ら 2025, Nature Commun. →",
+    "res_paper_2": "木口ら 2021, DNA Research →",
+    "res_paper_3": "竹脇・木口ら 2024, Cell Rep. →"
   }
 }
