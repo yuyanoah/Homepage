@@ -42,7 +42,8 @@
     "nav_honors": "Honors",
     "honors_title": "Fellowships & Awards",
     "honors_fellowships": "Fellowships",
-    "honors_awards": "Awards"
+    "honors_awards": "Awards",
+    "res_paper_2c": "Kiguchi et al. 2025, Nature Commun. →"
   },
   "jp": {
     "nav_home": "ホーム",
@@ -87,6 +88,7 @@
     "nav_honors": "受賞歴",
     "honors_title": "受賞・奨学金",
     "honors_fellowships": "奨学金・フェローシップ",
-    "honors_awards": "受賞"
+    "honors_awards": "受賞",
+    "res_paper_2c": "木口ら 2025, Nature Commun. →"
   }
 }
