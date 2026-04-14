@@ -1,0 +1,24 @@
+{
+  "supervision": [
+    {
+      "name": "Nagisa Hamamoto",
+      "degree": "Ph.D. student",
+      "period": "2022–2025",
+      "institution": "The University of Tokyo"
+    }
+  ],
+  "courses": [
+    {"course": "Molecular Biology II", "institution": "Hosei University", "year": 2025, "audience": "Undergraduate"},
+    {"course": "Molecular Biology II", "institution": "Hosei University", "year": 2024, "audience": "Undergraduate"},
+    {"course": "Basic Lecture for the Data Science for the Drug Development", "institution": "The University of Tokyo", "year": 2024, "audience": "Graduate"},
+    {"course": "Genome School", "institution": "The University of Tokyo", "year": 2024, "audience": "Industry"},
+    {"course": "Lecture of Omics", "institution": "The University of Tokyo", "year": 2024, "audience": "Graduate"},
+    {"course": "Molecular Biology II", "institution": "Hosei University", "year": 2023, "audience": "Undergraduate"},
+    {"course": "Basic Lecture for the Data Science for the Drug Development", "institution": "The University of Tokyo", "year": 2023, "audience": "Graduate"},
+    {"course": "Lecture of Omics", "institution": "The University of Tokyo", "year": 2023, "audience": "Graduate"},
+    {"course": "Basic Lecture for the Data Science for the Drug Development", "institution": "The University of Tokyo", "year": 2022, "audience": "Graduate"},
+    {"course": "Lecture of Omics", "institution": "The University of Tokyo", "year": 2022, "audience": "Graduate"},
+    {"course": "Global Week", "institution": "Junten Senior High School", "year": 2019, "audience": "High school"},
+    {"course": "Global Week", "institution": "Junten Senior High School", "year": 2018, "audience": "High school"}
+  ]
+}
