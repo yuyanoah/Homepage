@@ -1,0 +1,76 @@
+{
+  "publications": [
+    {
+      "title": "Giant extrachromosomal element \"Inocle\" potentially expands the adaptive capacity of the human oral microbiome",
+      "authors": "Y Kiguchi, N Hamamoto, Y Kashima, LR Runtuwene, A Ishizaka, Y Kuze, et al.",
+      "venue": "Nature Communications",
+      "year": 2025,
+      "citations": 1,
+      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en"
+    },
+    {
+      "title": "Illumina complete long read assay yields contiguous bacterial genomes from human gut metagenomes",
+      "authors": "DG Maghini, Y Kiguchi, AE Darling, LG Monahan, AL Halpern, CM Burke, et al.",
+      "venue": "mSystems",
+      "year": 2025,
+      "citations": 5,
+      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en"
+    },
+    {
+      "title": "Gut microbiota associated with equol production in school-age children",
+      "authors": "K Wada, W Suda, T Ueno, H Masuoka, M Yamakawa, Y Nakashima, et al.",
+      "venue": "European Journal of Nutrition",
+      "year": 2025,
+      "citations": 7,
+      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en"
+    },
+    {
+      "title": "Tyzzerella nexilis strains enriched in mobile genetic elements are involved in progressive multiple sclerosis",
+      "authors": "D Takewaki, Y Kiguchi, H Masuoka, MS Manu, BJE Raveney, et al.",
+      "venue": "Cell Reports",
+      "year": 2024,
+      "citations": 11,
+      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en"
+    },
+    {
+      "title": "Uncovering microbiomes of the rice phyllosphere using long-read metagenomic sequencing",
+      "authors": "S Masuda, P Gan, Y Kiguchi, M Anda, K Sasaki, A Shibata, W Iwasaki, et al.",
+      "venue": "Communications Biology",
+      "year": 2024,
+      "citations": 26,
+      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en"
+    },
+    {
+      "title": "Recovery of microbial DNA by agar-containing solution from extremely low-biomass specimens including skin",
+      "authors": "R Kurokawa, H Masuoka, L Takayasu, Y Kiguchi, Y Ogata, et al.",
+      "venue": "Scientific Reports",
+      "year": 2023,
+      "citations": 2,
+      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en"
+    },
+    {
+      "title": "Extensive gut virome variation and its associations with host and environmental factors in a population-level cohort",
+      "authors": "S Nishijima, N Nagata, Y Kiguchi, Y Kojima, T Miyoshi-Akiyama, M Kimura, et al.",
+      "venue": "Nature Communications",
+      "year": 2022,
+      "citations": 122,
+      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en"
+    },
+    {
+      "title": "Long-read metagenomics of multiple displacement amplified DNA of low-biomass human gut phageomes by SACRA pre-processing chimeric reads",
+      "authors": "Y Kiguchi, S Nishijima, N Kumar, M Hattori, W Suda",
+      "venue": "DNA Research",
+      "year": 2021,
+      "citations": 27,
+      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en"
+    },
+    {
+      "title": "Ectopic colonization of oral bacteria in the intestine drives TH1 cell induction and inflammation",
+      "authors": "K Atarashi, W Suda, C Luo, T Kawaguchi, I Motoo, S Narushima, et al.",
+      "venue": "Science",
+      "year": 2017,
+      "citations": 1059,
+      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en"
+    }
+  ]
+}
