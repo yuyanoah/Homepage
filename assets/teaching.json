@@ -1,12 +1,5 @@
 {
-  "supervision": [
-    {
-      "name": "Nagisa Hamamoto",
-      "degree": "Ph.D. student",
-      "period": "2022–2025",
-      "institution": "The University of Tokyo"
-    }
-  ],
+  "supervision": [],
   "courses": [
     {"course": "Molecular Biology II", "institution": "Hosei University", "year": 2025, "audience": "Undergraduate"},
     {"course": "Molecular Biology II", "institution": "Hosei University", "year": 2024, "audience": "Undergraduate"},
