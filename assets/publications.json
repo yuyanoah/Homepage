@@ -2,18 +2,18 @@
   "publications": [
     {
       "title": "Giant extrachromosomal element \"Inocle\" potentially expands the adaptive capacity of the human oral microbiome",
-      "authors": "Y Kiguchi, N Hamamoto, Y Kashima, LR Runtuwene, A Ishizaka, Y Kuze, et al.",
+      "authors": "Y Kiguchi, N Hamamoto, Y Kashima, LR Runtuwene, A Ishizaka, Y Kuze, T Enokida, N Tanaka, M Tahara, S Kageyama, T Fujisawa, R Yamashita, A Kanai, JSB Tuda, T Mizutani, Y Suzuki",
       "venue": "Nature Communications",
       "year": 2025,
       "citations": 1,
       "co_first": true,
       "corresponding": true,
-      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en",
-      "selected": true
+      "selected": true,
+      "url": "https://doi.org/10.1038/s41467-025-62406-5"
     },
     {
       "title": "Illumina complete long read assay yields contiguous bacterial genomes from human gut metagenomes",
-      "authors": "DG Maghini, Y Kiguchi, AE Darling, LG Monahan, AL Halpern, CM Burke, et al.",
+      "authors": "DG Maghini, Y Kiguchi, AE Darling, LG Monahan, AL Halpern, CM Burke, E Jaeger, A Statham, T Truong, K Ying, SP Bruinsma, GP Schroth, AS Bhatt",
       "venue": "mSystems",
       "year": 2025,
       "citations": 5,
@@ -22,7 +22,7 @@
     },
     {
       "title": "Gut microbiota associated with equol production in school-age children",
-      "authors": "K Wada, W Suda, T Ueno, H Masuoka, M Yamakawa, Y Nakashima, et al.",
+      "authors": "K Wada, W Suda, T Ueno, H Masuoka, M Yamakawa, Y Nakashima, M Sugino, T Mori, S Uchiyama, Y Sumoto, Y Kiguchi, M Hattori, C Nagata",
       "venue": "European Journal of Nutrition",
       "year": 2025,
       "citations": 7,
@@ -30,17 +30,17 @@
     },
     {
       "title": "Tyzzerella nexilis strains enriched in mobile genetic elements are involved in progressive multiple sclerosis",
-      "authors": "D Takewaki, Y Kiguchi, H Masuoka, MS Manu, BJE Raveney, et al.",
+      "authors": "D Takewaki, Y Kiguchi, H Masuoka, MS Manu, BJE Raveney, S Narushima, R Kurokawa, Y Ogata, Y Kimura, N Sato, Y Ozawa, S Yagishita, T Araki, S Miyake, W Sato, W Suda, M Hattori, T Yamamura",
       "venue": "Cell Reports",
       "year": 2024,
       "citations": 11,
       "co_first": true,
-      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en",
-      "selected": true
+      "selected": true,
+      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en"
     },
     {
       "title": "Uncovering microbiomes of the rice phyllosphere using long-read metagenomic sequencing",
-      "authors": "S Masuda, P Gan, Y Kiguchi, M Anda, K Sasaki, A Shibata, W Iwasaki, et al.",
+      "authors": "S Masuda, P Gan, Y Kiguchi, M Anda, K Sasaki, A Shibata, W Iwasaki, W Suda, K Shirasu",
       "venue": "Communications Biology",
       "year": 2024,
       "citations": 26,
@@ -48,7 +48,7 @@
     },
     {
       "title": "Recovery of microbial DNA by agar-containing solution from extremely low-biomass specimens including skin",
-      "authors": "R Kurokawa, H Masuoka, L Takayasu, Y Kiguchi, Y Ogata, et al.",
+      "authors": "R Kurokawa, H Masuoka, L Takayasu, Y Kiguchi, Y Ogata, R Miura-Kawatsu, M Hattori, W Suda",
       "venue": "Scientific Reports",
       "year": 2023,
       "citations": 2,
@@ -56,7 +56,7 @@
     },
     {
       "title": "Extensive gut virome variation and its associations with host and environmental factors in a population-level cohort",
-      "authors": "S Nishijima, N Nagata, Y Kiguchi, Y Kojima, T Miyoshi-Akiyama, M Kimura, et al.",
+      "authors": "S Nishijima, N Nagata, Y Kiguchi, Y Kojima, T Miyoshi-Akiyama, M Kimura, M Ohsugi, K Ueki, S Oka, M Mizokami, T Itoi, T Kawai, N Uemura, M Hattori",
       "venue": "Nature Communications",
       "year": 2022,
       "citations": 122,
@@ -73,12 +73,12 @@
     },
     {
       "title": "Ectopic colonization of oral bacteria in the intestine drives TH1 cell induction and inflammation",
-      "authors": "K Atarashi, W Suda, C Luo, T Kawaguchi, I Motoo, S Narushima, et al.",
+      "authors": "K Atarashi, W Suda, C Luo, T Kawaguchi, I Motoo, S Narushima, Y Kiguchi, K Yasuma, E Watanabe, T Tanoue, CA Thaiss, M Sato, K Toyooka, HS Said, H Yamagami, SA Rice, D Gevers, RC Johnson, JA Segre, K Chen, JK Kolls, E Elinav, H Morita, RJ Xavier, M Hattori, K Honda",
       "venue": "Science",
       "year": 2017,
       "citations": 1059,
-      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en",
-      "selected": true
+      "selected": true,
+      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en"
     }
   ]
 }
