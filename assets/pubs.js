@@ -1,5 +1,5 @@
 (async () => {
-  const res = await fetch('assets/publications.json');
+  const res = await fetch('assets/publications.json?v=2');
   const data = await res.json();
   const fullList = document.getElementById('pub-list');
   const homeList = document.getElementById('home-pub-list');
@@ -29,5 +29,5 @@
   }
 
   if (fullList) fullList.innerHTML = renderPubs(pubs);
-  if (homeList) homeList.innerHTML = renderPubs(pubs.slice(0, 3));
+  if (homeList) homeList.innerHTML = renderPubs(pubs.filter(p => p.selected));
 })();
