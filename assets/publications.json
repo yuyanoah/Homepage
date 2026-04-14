@@ -8,7 +8,8 @@
       "citations": 1,
       "co_first": true,
       "corresponding": true,
-      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en"
+      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en",
+      "selected": true
     },
     {
       "title": "Illumina complete long read assay yields contiguous bacterial genomes from human gut metagenomes",
@@ -34,7 +35,8 @@
       "year": 2024,
       "citations": 11,
       "co_first": true,
-      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en"
+      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en",
+      "selected": true
     },
     {
       "title": "Uncovering microbiomes of the rice phyllosphere using long-read metagenomic sequencing",
@@ -75,7 +77,8 @@
       "venue": "Science",
       "year": 2017,
       "citations": 1059,
-      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en"
+      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en",
+      "selected": true
     }
   ]
 }
