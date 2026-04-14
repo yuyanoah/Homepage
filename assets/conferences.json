@@ -1,0 +1,74 @@
+{
+  "conferences": [
+    {
+      "title": "Giant extrachromosomal element \"Inocle\" potentially expands the adaptive capacity of the human oral microbiome",
+      "year": 2024,
+      "venue": "34th Microbiome Virtual International Forum",
+      "location": "Virtual",
+      "type": "Selected Talk"
+    },
+    {
+      "title": "Inocles are novel extrachromosomal genetic element in the oral microbiome associated with blood cell populations",
+      "year": 2024,
+      "venue": "51st Naito Conference",
+      "location": "Hokkaido, Japan",
+      "type": "Oral & Poster"
+    },
+    {
+      "title": "Dysbiosis of the bacteriophage-bacteria interactions exacerbate the pathology of multiple sclerosis",
+      "year": 2023,
+      "venue": "The human microbiome, EMBL Heidelberg",
+      "location": "Heidelberg, Germany",
+      "type": "Poster"
+    },
+    {
+      "title": "Dysbiosis of the human gut bacteria-phage interactions associate with propionate reduction in multiple sclerosis",
+      "year": 2022,
+      "venue": "9th International Human Microbiome Consortium Meeting (IHMC)",
+      "location": "Kobe, Japan",
+      "type": "Poster"
+    },
+    {
+      "title": "Dysbiosis of the human gut bacteriophage community in Multiple Sclerosis",
+      "year": 2021,
+      "venue": "44th Annual Meeting of the Molecular Biology Society of Japan",
+      "location": "Yokohama, Japan",
+      "type": "Oral"
+    },
+    {
+      "title": "Long-read metagenomics of multiple displacement amplification-treated phageome uncovers cluster specific characteristics of human gut Microviridae",
+      "year": 2021,
+      "venue": "8th International Human Microbiome Consortium Meeting (IHMC)",
+      "location": "Barcelona, Spain",
+      "type": "Poster"
+    },
+    {
+      "title": "The structure of human gut virome",
+      "year": 2020,
+      "venue": "International Workshop on Eukaryotic Microbiome, The University of Tokyo",
+      "location": "Tokyo, Japan",
+      "type": "Oral"
+    },
+    {
+      "title": "Comprehensive reconstruction of human gut full-length phage genomes using a long-read sequencer",
+      "year": 2019,
+      "venue": "42nd Annual Meeting of the Molecular Biology Society of Japan",
+      "location": "Fukuoka, Japan",
+      "type": "Oral"
+    },
+    {
+      "title": "Development of a bioinformatic tool for long-read metagenomic sequencing of the human gut virome",
+      "year": 2019,
+      "venue": "Meeting on MICROBIOME, Cold Spring Harbor Laboratory",
+      "location": "New York, USA",
+      "type": "Poster"
+    },
+    {
+      "title": "Assessment of fecal storage condition for human gut virome analysis",
+      "year": 2018,
+      "venue": "7th International Human Microbiome Consortium Meeting (IHMC)",
+      "location": "Killarney, Ireland",
+      "type": "Poster"
+    }
+  ]
+}
