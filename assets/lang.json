@@ -19,7 +19,7 @@
     "res_p_1": "My research focuses on identifying novel extrachromosomal elements (ECEs) in gut and oral bacteria and elucidating their biological roles. By characterizing giant ECEs with properties distinct from classical plasmids and bacteriophages, I investigate how bacteria harness these elements to achieve stable colonization in the human body.",
     "res_tag_2": "Metagenomics",
     "res_h_2": "Long-read Metagenomic Sequencing",
-    "res_p_2": "Conventional short-read metagenomics yields highly fragmented genomic sequences, making it difficult to do precise genomics of the human microbiome. To overcome this, I develop experimental and computational approaches using long-read sequencing platforms, such as PacBio, Nanopore, and Illumina LCRL, to obtain high-quality, contiguous genomes. Applications span bacterial chromosomes in the gut microbiome, the gut virome, and extrachromosomal elements in the oral microbiome.",
+    "res_p_2": "Conventional short-read metagenomics yields highly fragmented genomic sequences, making it difficult to do precise genomics of the human microbiome. To overcome this, I develop experimental and computational approaches using long-read sequencing platforms to obtain high-quality, contiguous genomes. Applications span bacterial chromosomes and viral genomes in the gut microbiome and extrachromosomal elements in the oral microbiome.",
     "res_tag_3": "Microbiome & disease",
     "res_h_3": "Microbiome–disease associations",
     "res_p_3": "I investigate how gut and oral microbiome composition and functional genes relate to inflammatory and autoimmune diseases, including multiple sclerosis and intestinal inflammation.",
