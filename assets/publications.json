@@ -22,7 +22,7 @@
       "year": 2025,
       "citations": 5,
       "co_first": true,
-      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en",
+      "url": "https://doi.org/10.1128/msystems.01531-24",
       "co_first_authors": [
         "DG Maghini",
         "Y Kiguchi"
@@ -34,7 +34,7 @@
       "venue": "European Journal of Nutrition",
       "year": 2025,
       "citations": 7,
-      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en"
+      "url": "https://doi.org/10.1007/s00394-025-03625-w"
     },
     {
       "title": "Tyzzerella nexilis strains enriched in mobile genetic elements are involved in progressive multiple sclerosis",
@@ -44,7 +44,7 @@
       "citations": 11,
       "co_first": true,
       "selected": true,
-      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en",
+      "url": "https://doi.org/10.1016/j.celrep.2024.114785",
       "co_first_authors": [
         "D Takewaki",
         "Y Kiguchi"
@@ -56,7 +56,7 @@
       "venue": "Communications Biology",
       "year": 2024,
       "citations": 26,
-      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en"
+      "url": "https://doi.org/10.1038/s42003-024-05998-w"
     },
     {
       "title": "Recovery of microbial DNA by agar-containing solution from extremely low-biomass specimens including skin",
@@ -64,7 +64,7 @@
       "venue": "Scientific Reports",
       "year": 2023,
       "citations": 2,
-      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en"
+      "url": "https://doi.org/10.1038/s41598-023-46890-7"
     },
     {
       "title": "Extensive gut virome variation and its associations with host and environmental factors in a population-level cohort",
@@ -72,7 +72,7 @@
       "venue": "Nature Communications",
       "year": 2022,
       "citations": 122,
-      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en"
+      "url": "https://doi.org/10.1038/s41467-022-32832-w"
     },
     {
       "title": "Long-read metagenomics of multiple displacement amplified DNA of low-biomass human gut phageomes by SACRA pre-processing chimeric reads",
@@ -81,7 +81,7 @@
       "year": 2021,
       "citations": 27,
       "co_first": true,
-      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en"
+      "url": "https://doi.org/10.1093/dnares/dsab019"
     },
     {
       "title": "Ectopic colonization of oral bacteria in the intestine drives TH1 cell induction and inflammation",
@@ -90,7 +90,7 @@
       "year": 2017,
       "citations": 1059,
       "selected": true,
-      "url": "https://scholar.google.com/citations?user=-gyuLBwAAAAJ&hl=en"
+      "url": "https://doi.org/10.1126/science.aah4249"
     }
   ]
 }
