@@ -39,7 +39,7 @@ nav {
 }
 .nav-links a:hover, .nav-links button:hover { color: var(--fg); background: var(--card); }
 .nav-links a.active { color: var(--brand); background: color-mix(in srgb, var(--brand) 10%, transparent); }
-.hero { display: grid; grid-template-columns: 1fr auto; gap: 48px; align-items: center; padding: 72px 0 32px; }
+.hero { display: grid; grid-template-columns: 1fr auto; gap: 48px; align-items: center; padding: 48px 0 12px; }
 .hero-text .kicker { font-size: 12px; letter-spacing: .7px; text-transform: uppercase; color: var(--brand); font-weight: 700; margin-bottom: 14px; }
 .hero h1 { font-size: clamp(24px, 3vw, 32px); font-weight: 800; letter-spacing: -1.5px; margin: 0 0 16px; line-height: 1.1; }
 .hero-desc { color: var(--muted); font-size: 16px; line-height: 1.75; margin: 0 0 28px; }
@@ -51,7 +51,7 @@ nav {
 .btn-ghost:hover { background: var(--card); transform: translateY(-1px); }
 .hero-photo img { width: 180px; height: 180px; border-radius: 50%; object-fit: cover; object-position: center top; border: 3px solid var(--border); box-shadow: var(--shadow); transition: box-shadow .2s; }
 .hero-photo img:hover { box-shadow: var(--shadow-hover); }
-.home-section { padding: 32px 0 0; }
+.home-section { padding: 20px 0 0; }
 .section-label { display: flex; align-items: flex-end; justify-content: space-between; margin-bottom: 24px; gap: 16px; }
 .section-title { font-size: clamp(20px, 3vw, 26px); font-weight: 800; letter-spacing: -.8px; margin: 4px 0 0; }
 .see-all { font-size: 14px; font-weight: 600; color: var(--brand); text-decoration: none; white-space: nowrap; padding-bottom: 2px; border-bottom: 1.5px solid transparent; transition: border-color .15s; }
