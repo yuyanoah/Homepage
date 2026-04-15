@@ -116,3 +116,7 @@ footer { margin-top: 80px; padding: 28px 24px; border-top: 1px solid var(--borde
 .res-paper-link:hover { color: var(--brand); }
 
 .research-interest-title { margin-top: 28px; }
+
+.brand { display: flex; align-items: center; gap: 2px; }
+.brand-social { color: var(--muted); display: inline-flex; align-items: center; padding: 4px 5px; border-radius: 5px; transition: color .15s, background .15s; }
+.brand-social:hover { color: var(--fg); background: var(--card); }
