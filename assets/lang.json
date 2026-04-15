@@ -21,8 +21,8 @@
     "res_h_2": "Long-read Metagenomic Sequencing",
     "res_p_2": "Conventional short-read metagenomics yields highly fragmented genomic sequences, making it difficult to do precise genomics of the human microbiome. To overcome this, I develop experimental and computational approaches using long-read sequencing platforms to obtain high-quality, contiguous genomes. Applications span bacterial chromosomes and viral genomes in the gut microbiome and extrachromosomal elements in the oral microbiome.",
     "res_tag_3": "Microbiome & disease",
-    "res_h_3": "Microbiome–disease associations",
-    "res_p_3": "I investigate how gut and oral microbiome composition and functional genes relate to inflammatory and autoimmune diseases, including multiple sclerosis and intestinal inflammation.",
+    "res_h_3": "Microbial Genetic Element–Disease Associations",
+    "res_p_3": "I investigate how prokaryote-related genetic elements are associated with human diseases, providing molecular-level insights into host–microbiome interactions. In the gut, we have shown that a composite transposon within a bacterial chromosome harboring a flagella gene cluster is linked to multiple sclerosis. In the oral cavity, we have reported that giant extrachromosomal genetic elements are reduced in oral cancer patients.",
     "pubs_title": "Publications",
     "pubs_desc": "† First author / Co-first author  * Corresponding author",
     "conf_title": "Talks",
@@ -43,7 +43,8 @@
     "honors_title": "Fellowships & Awards",
     "honors_fellowships": "Fellowships",
     "honors_awards": "Awards",
-    "res_paper_2c": "Kiguchi et al. 2025, Nature Commun. →"
+    "res_paper_2c": "Kiguchi et al. 2025, Nature Commun. →",
+    "res_paper_3b": "Kiguchi et al. 2025, Nature Commun. →"
   },
   "jp": {
     "nav_home": "ホーム",
@@ -67,8 +68,8 @@
     "res_h_2": "ロングリード・メタゲノムシーケンシング",
     "res_p_2": "従来のshort-readを用いたメタゲノミクスでは得られるゲノム配列が高度に断片化するため、ヒトマイクロバイオームの精密なゲノム解析が困難です。そのため、PacBio・Nanopore・Illumina LCRLなどのロングリード・シーケンシング・プラットフォームを用いた実験的・計算的アプローチを開発し、高精度な連続ゲノム配列の取得を目指しています。その応用は腸内細菌染色体、腸内ビローム、口腔マイクロバイオームの染色体外エレメントなど多岐にわたります。",
     "res_tag_3": "マイクロバイオームと疾患",
-    "res_h_3": "マイクロバイオームと疾患の関連",
-    "res_p_3": "多発性硬化症や腔炎などの炎症性・自己免疫疾患と、腔内・口腔マイクロバイオームの組成や機能遗伝子との関係を解明しています。",
+    "res_h_3": "微生物遺伝エレメントと疾患の関連",
+    "res_p_3": "prokaryote関連遺伝エレメントがヒト疾患とどのように関連するかを解明することで、宿主とマイクロバイオームの相互作用を分子レベルで明らかにするための足掛かりを提供しています。腸内では、フラジェラ遺伝子クラスターを含む細菌染色体上のcomposite transposonの有無が多発性硬化症と関連していることを示しました。口腔内では、巨大染色体外遺伝エレメントが口腔がん患者において減少していることを報告しています。",
     "pubs_title": "論文",
     "pubs_desc": "† 筆頭著者 / 共同筆頭著者　* 責任著者",
     "conf_title": "発表",
@@ -89,6 +90,7 @@
     "honors_title": "受賞・奨学金",
     "honors_fellowships": "奨学金・フェローシップ",
     "honors_awards": "受賞",
-    "res_paper_2c": "木口ら 2025, Nature Commun. →"
+    "res_paper_2c": "木口ら 2025, Nature Commun. →",
+    "res_paper_3b": "木口ら 2025, Nature Commun. →"
   }
 }
