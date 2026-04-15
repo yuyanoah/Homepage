@@ -41,7 +41,7 @@ nav {
 .nav-links a.active { color: var(--brand); background: color-mix(in srgb, var(--brand) 10%, transparent); }
 .hero { display: grid; grid-template-columns: 1fr auto; gap: 48px; align-items: center; padding: 48px 0 12px; }
 .hero-text .kicker { font-size: 12px; letter-spacing: .7px; text-transform: uppercase; color: var(--brand); font-weight: 700; margin-bottom: 14px; }
-.hero h1 { font-size: clamp(24px, 3vw, 32px); font-weight: 800; letter-spacing: -1.5px; margin: 0 0 16px; line-height: 1.1; }
+.hero h1, .research-interest-title { font-size: clamp(24px, 3vw, 32px); font-weight: 800; letter-spacing: -1.5px; margin: 0 0 16px; line-height: 1.1; }
 .hero-desc { color: var(--muted); font-size: 16px; line-height: 1.75; margin: 0 0 28px; }
 .hero-links { display: flex; gap: 10px; flex-wrap: wrap; }
 .btn { display: inline-flex; align-items: center; gap: 6px; padding: 9px 18px; border-radius: 8px; font-size: 14px; font-weight: 600; text-decoration: none; transition: all .15s; white-space: nowrap; }
@@ -114,3 +114,5 @@ footer { margin-top: 80px; padding: 28px 24px; border-top: 1px solid var(--borde
   transition: color .15s;
 }
 .res-paper-link:hover { color: var(--brand); }
+
+.research-interest-title { margin-top: 28px; }
