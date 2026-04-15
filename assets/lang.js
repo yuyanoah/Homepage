@@ -1,7 +1,7 @@
 
 async function setLang(lang) {
   localStorage.setItem("lang", lang);
-  const res = await fetch("assets/lang.json?v=4");
+  const res = await fetch("assets/lang.json?v=5");
   const dict = await res.json();
   const trans = dict[lang] || dict.en;
   document.querySelectorAll("[data-i18n]").forEach(el => {
